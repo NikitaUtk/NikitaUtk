@@ -16,6 +16,6 @@ Langueges and Tools
 ![HADOOP](https://img.shields.io/badge/HADOOP-101a1f?style=for-the-badge&logo=hadoopf)
 
 ### Follow me
-![Telegram](https://img.shields.io/badge/TELEGRAM-101a1f?style=for-the-badge&logo=telegram)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-101a1f?style=for-the-badge&logo=telegram)](https://t.me/nseutkin)
 ![Instagram](https://img.shields.io/badge/INSTAGRAM-101a1f?style=for-the-badge&logo=instagram)
 ![LinkedIn](https://img.shields.io/badge/LINKEDIN-101a1f?style=for-the-badge&logo=LINKEDIN&logoColor=007BB6)
