@@ -1,6 +1,6 @@
 ![Header](https://github.com/NikitaUtk/NikitaUtk/blob/main/assets/giphy.gif)
 
-About me
+## I'm a Software Engeneer
 
 Latest my idea
 
