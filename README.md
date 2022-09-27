@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NikitaUtk/NikitaUtk/blob/main/assets/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/NikitaUtk/NikitaUtk/blob/main/assets/giphy.gif" width="500" height="300"/>
 </div>
 
 ## I'm a Software Engeneer
@@ -15,4 +15,7 @@ Langueges and Tools
 ![JENKINS](https://img.shields.io/badge/JENKINS-101a1f?style=for-the-badge&logo=jenkins&logoColor=ede8af)
 ![HADOOP](https://img.shields.io/badge/HADOOP-101a1f?style=for-the-badge&logo=hadoopf)
 
-Follow me
+### Follow me
+![Telegram](https://img.shields.io/badge/TELEGRAM-101a1f?style=for-the-badge&logo=telegram)
+![Instagram](https://img.shields.io/badge/INSTAGRAM-101a1f?style=for-the-badge&logo=instagram)
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-101a1f?style=for-the-badge&logo=LINKEDIN&logoColor=007BB6)
