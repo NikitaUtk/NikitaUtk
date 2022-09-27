@@ -1,4 +1,6 @@
-![Header](https://github.com/NikitaUtk/NikitaUtk/blob/main/assets/giphy.gif)
+<div align="center">
+  <img src="https://github.com/NikitaUtk/NikitaUtk/blob/main/assets/giphy.gif" width="600" height="300"/>
+</div>
 
 ## I'm a Software Engeneer
 
