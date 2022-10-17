@@ -2,9 +2,7 @@
   <img src="https://github.com/NikitaUtk/NikitaUtk/blob/main/assets/giphy.gif" width="500" height="300"/>
 </div>
 
-## I'm a Software Engeneer
-
-Latest my idea
+## I'm a Developer
 
 Langueges and Tools
 
