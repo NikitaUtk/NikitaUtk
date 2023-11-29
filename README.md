@@ -1,19 +1,25 @@
-<div align="center">
-  <img src="https://github.com/NikitaUtk/NikitaUtk/blob/main/assets/giphy.gif" width="500" height="300"/>
-</div>
 
-## I'm a Developer
+<h1 align="center">Hi 👋 I'm Utkin Nikita </h1>
+<h3 align="center">A Java developer from Moscow, Russia.</h3>
 
-Langueges and Tools
+<h3 align="center"> ⚡ My Stack </h3>
+<br>
+<p align="center"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.oracle.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.swagger.io" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_swagger.svg" alt="swagger" width="40" height="40"/></a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_maven.svg" alt="maven" width="40" height="40"/></a>
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+</p>
 
-![SQL](https://img.shields.io/badge/SQL-101a1f?style=for-the-badge&logo=oracle&logoColor=b04e04)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-101a1f?style=for-the-badge&logo=PL/SQL&logoColor=b04e04)
-![JAVA](https://img.shields.io/badge/JAVA-101a1f?style=for-the-badge&logo=JAVA&logoColor=b04e04)
-![SCALA](https://img.shields.io/badge/SCALA-101a1f?style=for-the-badge&logo=SCALA&logoColor=b00505)
-![JENKINS](https://img.shields.io/badge/JENKINS-101a1f?style=for-the-badge&logo=jenkins&logoColor=ede8af)
-![HADOOP](https://img.shields.io/badge/HADOOP-101a1f?style=for-the-badge&logo=hadoopf)
-
-### Follow me
+### Contact me
 [![Telegram](https://img.shields.io/badge/TELEGRAM-101a1f?style=for-the-badge&logo=telegram)](https://t.me/nseutkin)
-![Instagram](https://img.shields.io/badge/INSTAGRAM-101a1f?style=for-the-badge&logo=instagram)
-![LinkedIn](https://img.shields.io/badge/LINKEDIN-101a1f?style=for-the-badge&logo=LINKEDIN&logoColor=007BB6)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-101a1f?style=for-the-badge&logo=LINKEDIN&logoColor=007BB6)](https://www.linkedin.com/in/nikitautkin8)
